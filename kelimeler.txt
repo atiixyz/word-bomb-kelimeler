@@ -1,3 +1,4 @@
+ammo
 kalem
 kitap
 araba
@@ -22441,4 +22442,5 @@ füzeci
 füzen
 füzesavar
 füzyometre
+
 füzyon
