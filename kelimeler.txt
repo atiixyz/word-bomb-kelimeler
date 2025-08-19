@@ -1,5 +1,4 @@
 görkemli türk devleti
-orospu
 kalem
 kitap
 araba
@@ -22444,3 +22443,4 @@ füzen
 füzesavar
 füzyometre
 füzyon
+
