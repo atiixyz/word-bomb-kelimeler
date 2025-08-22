@@ -361,7 +361,7 @@ dolandırmak
 üstelememek
 küsmemek
 yadırgamak
-kafadan gayrimüsellah
+KAFADAN GAYRIMÜSELLAH
 hasım
 açmamak
 yükselmek
@@ -1892,3 +1892,44 @@ KOYUNLAŞIP
 ALIKOYUP
 KORDON BOYU
 OYUCULUĞUNU
+fırın
+cezbetmek
+kımılda
+yumuşaklık
+sürttüğünde
+cicik
+ver
+iyileştirebil
+kabız
+sereceği
+yönlendirmek
+aylık
+şah
+okutturmak
+kıç
+demir
+omurga
+YABA
+YABAN
+OYABİL
+YABACI
+YABALI
+YABANI
+YABANİ
+CAYABİL
+DOYABİL
+DUYABİL
+DİYABET
+SAYABİL
+KAYABİL
+KIYABİL
+KOYABİL
+YABALIK
+YABANCA
+YABANCI
+YABANLI
+ACIYABİL
+ADAYABİL
+AVLAYABİLDİK
+YABANCILAŞTIR
+TAŞIYABİLDİĞİMİ
