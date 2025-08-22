@@ -1191,7 +1191,7 @@ sapla
 topla
 toplu
 tipli
-adaplı
+ADAPLI
 çaplı
 zıpla
 çöplü
