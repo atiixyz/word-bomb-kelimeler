@@ -60,7 +60,7 @@ düdüklü tencere
 kakofoni
 manastır
 düdüklü tencere
-temerrüt faizi
+TEMERRÜT-FAIZI
 incelemek
 harıltı
 kuransız
@@ -675,7 +675,6 @@ gulgamış destanı
 sinsile
 şıklık
 engelleme
-aştırmaktelefon
 parlatmak
 içerleme
 doldurma
@@ -2453,3 +2452,21 @@ MARANGOZ BALIĞI
 YOZLAŞTIRILDIĞI
 BOZDURMAYACAĞINI
 OYUNBOZANLIĞIYLA
+ALGILA
+ALGILI
+BINGIL
+DINGIL
+EZGILI
+ILGILI
+ZINGIL
+ÇINGIL
+ALGILAN
+GERGILI
+ALGILAT
+BELGILI
+BILGILI
+SAYGILAR
+NARGILLER
+SALGILAMA
+ÇALGILIĞI
+YARGILAMA
