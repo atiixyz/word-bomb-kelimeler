@@ -1738,7 +1738,7 @@ satır
 fırsat
 satıcı
 ruhsat
-satürn
+SATÜRN
 aksatan
 IKTISAT
 AKSATMA
@@ -3005,3 +3005,4 @@ IRTIBATSIZLIK
 IRTIFAK-HAKKI
 IDIL
 ALDIRIŞ
+
