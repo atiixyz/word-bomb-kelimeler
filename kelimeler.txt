@@ -767,7 +767,6 @@ aratmamak
 açlık
 aptallık
 incelik
-alatmak
 noktalamak
 bükreş
 homurdanmak
@@ -3085,3 +3084,4 @@ inletme
 bölüğü
 kısalığı
 sıkabil
+
