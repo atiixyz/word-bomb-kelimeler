@@ -465,7 +465,6 @@ ahlamak
 taş
 ballandırmk
 kuku
-tonymasterlik
 patlangaç
 tan
 sağ salim
@@ -1934,7 +1933,6 @@ ADAYABİL
 AVLAYABİLDİK
 YABANCILAŞTIR
 TAŞIYABİLDİĞİMİ
-recep tayyip erdoğan
 kırgın
 kokarca
 yirmi
@@ -3084,3 +3082,15 @@ inletme
 bölüğü
 kısalığı
 sıkabil
+kayyum
+kudurtmak
+velayet
+ulaştırmak
+sönük
+kuruculuk
+kamçılanmak
+tutuşmak
+tarumar
+dadaizm
+koku
+aklanmak
